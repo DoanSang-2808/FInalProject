@@ -27,7 +27,6 @@ function Header() {
                     <SignIn />
                 </Route>
             </div> */
-       
     )
 }
 export default Header
